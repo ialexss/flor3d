@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sunflower
+* source:	https://sketchfab.com/3d-models/sunflower-eed0588360284db1bcd4af720c258c10
+* author:	MANUGR (https://sketchfab.com/MANUGR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sunflower" (https://sketchfab.com/3d-models/sunflower-eed0588360284db1bcd4af720c258c10) by MANUGR (https://sketchfab.com/MANUGR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
